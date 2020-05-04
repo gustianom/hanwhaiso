@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-04T15:51:28.569Z" agent="5.0 (Windows)" etag="fJj0ZnGUvoAjO2BQiC2o" version="13.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-05-04T15:52:09.215Z" agent="5.0 (Windows)" etag="swW5DITGnpZd2V8Nb9JU" version="13.0.6" type="github" pages="6">
   <diagram name="REG_SPAJ" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="782" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
             <mxPoint x="27" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8WxrCFCYr_adakvAWYX0-13" value="Notify FORM LINK" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="8WxrCFCYr_adakvAWYX0-1" source="8WxrCFCYr_adakvAWYX0-6" target="8WxrCFCYr_adakvAWYX0-11">
+        <mxCell id="8WxrCFCYr_adakvAWYX0-13" value="&lt;div&gt;Notify FORM LINK&lt;/div&gt;&lt;div&gt;By Email/SMS&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="8WxrCFCYr_adakvAWYX0-1" source="8WxrCFCYr_adakvAWYX0-6" target="8WxrCFCYr_adakvAWYX0-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
