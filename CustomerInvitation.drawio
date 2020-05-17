@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T14:43:00.784Z" agent="5.0 (Windows)" etag="Z4BrPa-ldLHNZ2rGHCYR" version="13.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-17T14:51:13.827Z" agent="5.0 (Windows)" etag="5OGv3R35TW19EqY_zrVq" version="13.0.6" type="github" pages="2">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="iFgZQMiK9_ZDCJvttfx-" name="Page-2">
+  <diagram id="iFgZQMiK9_ZDCJvttfx-" name="EmailInvitation">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="96FhCkNZLi8ryPFXQmvQ-0" />
