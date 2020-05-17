@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T14:24:46.674Z" agent="5.0 (Windows)" etag="_RRtMSjocg0Fw2pLGzpB" version="13.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-17T14:26:38.581Z" agent="5.0 (Windows)" etag="jikj5ajm2mxn2El8XqWw" version="13.0.6" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="Y0qNDgR4GCL8hJpYXGAW-9" value="Product" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="40" y="494" width="170" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Y0qNDgR4GCL8hJpYXGAW-10" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="Y0qNDgR4GCL8hJpYXGAW-10" value="Hanwha Smart Invest" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="230" y="497" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
