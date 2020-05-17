@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T15:06:13.401Z" agent="5.0 (Windows)" etag="kw2y95rl3KHfuxIxzm3g" version="13.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-17T15:09:51.000Z" agent="5.0 (Windows)" etag="s2yS0hsIrF-x6EQHTzgM" version="13.0.6" type="github" pages="4">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ESUBMISSION" id="dZxYmu5e-zN0Fjpu7wHu">
-    <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-0" />
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-1" parent="l-9gBXnHCzz0WvAi1yOw-0" />
@@ -131,25 +131,10 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-5" value="Surat Permintaan Asuransi Jiwa" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="30" y="140" width="340" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-6" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="540" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-7" value="Some default text to fill some space, and&amp;nbsp;&lt;span&gt;something more so there is more text&lt;/span&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="540" y="170" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-9" value="Some default text to fill some space, and&amp;nbsp;&lt;span&gt;something more so there is more text&lt;/span&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="540" y="260" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-10" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="800" y="140" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-11" value="Some default text to fill some space, and&amp;nbsp;&lt;span&gt;something more so there is more text&lt;/span&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="800" y="170" width="240" height="40" as="geometry" />
+          <mxGeometry x="30" y="122" width="890" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry y="310" width="1050" height="20" as="geometry" />
+          <mxGeometry y="289" width="1050" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-13" value="Customer Data" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
           <mxGeometry x="20" y="330" width="170" height="30" as="geometry" />
@@ -183,6 +168,9 @@
         </mxCell>
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-23" value="Hanwha Smart Invest" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
           <mxGeometry x="230" y="497" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Layer 1,Layer 2,+Layer 3,Layer 4;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="50" y="165" width="890" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
