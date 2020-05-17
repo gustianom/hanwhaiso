@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T16:37:34.658Z" agent="5.0 (Windows)" etag="2JVgf9ihOiFw42b3iAlc" version="13.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-05-17T16:38:07.899Z" agent="5.0 (Windows)" etag="7Qf6uzv1iGkrE1J5MNgC" version="13.0.6" type="github" pages="8">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -519,6 +519,18 @@
         </mxCell>
         <mxCell id="8ckd48aETe0KG_lK9PyE-32" value="Uraian Pekerjaan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
           <mxGeometry x="9" y="531" width="170" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="8ckd48aETe0KG_lK9PyE-33" value="" style="group" vertex="1" connectable="0" parent="8ckd48aETe0KG_lK9PyE-2">
+          <mxGeometry x="789" y="552" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8ckd48aETe0KG_lK9PyE-34" value="Tanda Tangan Tetanggung Tambahan" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-33">
+          <mxGeometry width="159" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ckd48aETe0KG_lK9PyE-35" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-33">
+          <mxGeometry y="30" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8ckd48aETe0KG_lK9PyE-36" value="" style="shape=mxgraph.mockup.markup.scratchOut;shadow=0;dashed=0;html=1;strokeColor=#999999;strokeWidth=4;align=center;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-33">
+          <mxGeometry x="9" y="50" width="141" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Jv1xNRYRDCRb8yFXLZX8-36" value="Orang Tua" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
           <mxGeometry x="195" y="230" width="155" height="30" as="geometry" />
