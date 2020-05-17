@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T14:51:13.827Z" agent="5.0 (Windows)" etag="5OGv3R35TW19EqY_zrVq" version="13.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-17T14:54:43.414Z" agent="5.0 (Windows)" etag="CyzQFtZ-WtcRy4h4khGd" version="13.0.6" type="github" pages="3">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -92,6 +92,26 @@
         </mxCell>
         <mxCell id="vEy16awdwbXVP3SVuSD4-3" value="https://www.hanwhalife.co.id/customer/registration/78686ftfgc446utuiu7yhi7t6rtgufy" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="96FhCkNZLi8ryPFXQmvQ-1">
           <mxGeometry x="340" y="420" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="WAInvi" id="A8uXjRIR9yNPO3hP0-tI">
+    <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="IK_ahtODUJht85bPp1Q2-0" />
+        <mxCell id="IK_ahtODUJht85bPp1Q2-1" parent="IK_ahtODUJht85bPp1Q2-0" />
+        <mxCell id="IK_ahtODUJht85bPp1Q2-3" value="Yang Terhormat &lt;b&gt;Ibu Marinda&lt;/b&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="IK_ahtODUJht85bPp1Q2-1">
+          <mxGeometry x="45" y="180" width="750" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IK_ahtODUJht85bPp1Q2-4" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="IK_ahtODUJht85bPp1Q2-1">
+          <mxGeometry x="46" y="220" width="763" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IK_ahtODUJht85bPp1Q2-5" value="&lt;div&gt;Terima Kasih,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[agent Name]&lt;/div&gt;&lt;div&gt;---------------------------------------&lt;/div&gt;&lt;div&gt;[agentcode/phone number]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PT Hanwha Life Insurance Indonesia&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="IK_ahtODUJht85bPp1Q2-1">
+          <mxGeometry x="38.5" y="380" width="763" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IK_ahtODUJht85bPp1Q2-6" value="https://www.hanwhalife.co.id/customer/registration/78686ftfgc446utuiu7yhi7t6rtgufy" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="IK_ahtODUJht85bPp1Q2-1">
+          <mxGeometry x="300" y="310" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
