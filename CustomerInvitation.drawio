@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T17:01:18.204Z" agent="5.0 (Windows)" etag="dxxAY9gskNVxKEdEtuKt" version="13.0.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-05-17T17:07:35.843Z" agent="5.0 (Windows)" etag="PpuoT_S7SZySD6dTNHUo" version="13.0.6" type="github" pages="11">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -763,7 +763,7 @@
         <mxCell id="K5q-qfV2lk6NsvcywUvF-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
           <mxGeometry y="168" width="1050" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-7" value="Rincian Product" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
+        <mxCell id="K5q-qfV2lk6NsvcywUvF-7" value="&lt;b&gt;Rincian Product&lt;/b&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
           <mxGeometry x="20" y="187" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K5q-qfV2lk6NsvcywUvF-8" value="Next" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
@@ -778,38 +778,85 @@
         <mxCell id="K5q-qfV2lk6NsvcywUvF-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
           <mxGeometry x="1019" y="240" width="20" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-37" value="Mata Uang" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="199" y="217" width="15" height="15" as="geometry" />
+        <mxCell id="zb7qKGuie-ZaH2_PWf_K-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.coverFlow;strokeColor=#999999;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
+          <mxGeometry x="190" y="300" width="730" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-44" value="Pertanggungan Asuransi Dasar" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="20" y="270" width="170" height="30" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="AdditionalDocument" id="R9QFnV3vq_FgRmgPwfe5">
+    <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="mqWv0okkQML0guKBb_1Y-0" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-1" parent="mqWv0okkQML0guKBb_1Y-0" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="mqWv0okkQML0guKBb_1Y-1">
+          <mxGeometry x="31" y="30" width="1050" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-56" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="309" y="420" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-3" value="SPAJ - Ibu Marinda - Hanwa Smart Invest" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-57" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="384" y="420" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-4" value="www.hanwhalife.co.id/customer/register/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-58" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="459" y="420" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-5" value="Surat Permintaan Asuransi Jiwa - SPAJ : 57038372983" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry x="30" y="122" width="890" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-59" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="309" y="495" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry y="168" width="1050" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-60" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="384" y="495" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-7" value="Additional Document" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry x="20" y="187" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-61" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="459" y="495" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-8" value="Next" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry x="849.5" y="730" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-62" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="309" y="570" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry x="9.5" y="700" width="1050" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-63" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="384" y="570" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-10" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Layer 1,Layer 2,+Layer 3,Layer 4;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry x="29.5" y="720" width="770" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K5q-qfV2lk6NsvcywUvF-64" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="K5q-qfV2lk6NsvcywUvF-2">
-          <mxGeometry x="459" y="570" width="50" height="50" as="geometry" />
+        <mxCell id="mqWv0okkQML0guKBb_1Y-11" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" vertex="1" parent="mqWv0okkQML0guKBb_1Y-2">
+          <mxGeometry x="1019" y="240" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-0" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="mqWv0okkQML0guKBb_1Y-1">
+          <mxGeometry x="31" y="30" width="1050" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-1" value="SPAJ - Ibu Marinda - Hanwa Smart Invest" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-2" value="www.hanwhalife.co.id/customer/register/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-3" value="Surat Permintaan Asuransi Jiwa - SPAJ : 57038372983" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="30" y="122" width="890" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry y="168" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-5" value="Dokumen Tambahan" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="20" y="187" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-6" value="Next" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="849.5" y="730" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="9.5" y="700" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-8" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Layer 1,Layer 2,+Layer 3,Layer 4;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="29.5" y="720" width="770" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="1019" y="240" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-12" value="Tambah Dokument" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="369" y="260" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-10" value="" style="group" vertex="1" connectable="0" parent="OGwkLlj0E55bduSY-BDh-0">
+          <mxGeometry x="69" y="300" width="491" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OGwkLlj0E55bduSY-BDh-11" value="&lt;table style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;Type&lt;br&gt;&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Remark&lt;br&gt;&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;#&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&amp;nbsp;KK&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;[edit/Delete]&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;align=center;" vertex="1" parent="OGwkLlj0E55bduSY-BDh-10">
+          <mxGeometry width="491" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
