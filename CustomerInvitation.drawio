@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T14:42:11.437Z" agent="5.0 (Windows)" etag="2jYxZdVDOj2Sdmfz1CdY" version="13.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-17T14:43:00.784Z" agent="5.0 (Windows)" etag="Z4BrPa-ldLHNZ2rGHCYR" version="13.0.6" type="github" pages="2">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -82,10 +82,10 @@
           <mxGeometry x="550" y="40" width="257" height="56" as="geometry" />
         </mxCell>
         <mxCell id="vEy16awdwbXVP3SVuSD4-0" value="Yang Terhormat &lt;b&gt;Ibu Marinda&lt;/b&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="96FhCkNZLi8ryPFXQmvQ-1">
-          <mxGeometry x="57" y="180" width="750" height="20" as="geometry" />
+          <mxGeometry x="45" y="180" width="750" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vEy16awdwbXVP3SVuSD4-1" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xa;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="96FhCkNZLi8ryPFXQmvQ-1">
-          <mxGeometry x="57" y="220" width="763" height="180" as="geometry" />
+          <mxGeometry x="46" y="220" width="763" height="180" as="geometry" />
         </mxCell>
         <mxCell id="vEy16awdwbXVP3SVuSD4-2" value="&lt;div&gt;Terima Kasih,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[agent Name]&lt;/div&gt;&lt;div&gt;---------------------------------------&lt;/div&gt;&lt;div&gt;[agentcode/phone number]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PT Hanwha Life Insurance Indonesia&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="96FhCkNZLi8ryPFXQmvQ-1">
           <mxGeometry x="44" y="550" width="763" height="180" as="geometry" />
