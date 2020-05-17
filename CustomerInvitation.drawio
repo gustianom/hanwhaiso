@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T15:24:23.051Z" agent="5.0 (Windows)" etag="pd65K4EWfg2iLJOWQBx5" version="13.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-17T15:32:21.366Z" agent="5.0 (Windows)" etag="w1TPbe_CYqzYFs9Dv4yZ" version="13.0.6" type="github" pages="4">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -157,17 +157,11 @@
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-19" value="Jenis Kelamin" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
           <mxGeometry x="9" y="296" width="170" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-20" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="230" y="386" width="371" height="30" as="geometry" />
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-22" value="Agama" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="9" y="370" width="170" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-21" value="Mobile Number" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="40" y="383" width="170" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-22" value="Product" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="40" y="427" width="170" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="l-9gBXnHCzz0WvAi1yOw-23" value="Hanwha Smart Invest" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
-          <mxGeometry x="230" y="430" width="340" height="30" as="geometry" />
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-23" value="Islam" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="199" y="373" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Layer 1,Layer 2,+Layer 3,Layer 4;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
           <mxGeometry x="20" y="600" width="770" height="50" as="geometry" />
@@ -193,11 +187,44 @@
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-35" value="Upload" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
           <mxGeometry x="679" y="222" width="121" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-36" value="Kewarganegaraan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="9" y="334" width="170" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-37" value="WNA" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="199" y="335" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-39" value="Negara Asal" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="459" y="332" width="170" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-40" value="Arab" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="650" y="335" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-41" value="Pendidikan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="457" y="373" width="170" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-42" value="SD" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="639" y="376" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-45" value="Sebutkan pekerjaan anda" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="199" y="450" width="301" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-46" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="199" y="486" width="671" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-47" value="Uraian Pekerjaan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-2">
+          <mxGeometry x="9" y="483" width="170" height="36" as="geometry" />
+        </mxCell>
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-32" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-1">
           <mxGeometry x="335" y="253" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-9gBXnHCzz0WvAi1yOw-33" value="Nomor Identitas" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-1">
           <mxGeometry x="40" y="250" width="170" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-43" value="Pekerjaan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-1">
+          <mxGeometry x="40" y="439" width="170" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="l-9gBXnHCzz0WvAi1yOw-44" value="Lainnya" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="l-9gBXnHCzz0WvAi1yOw-1">
+          <mxGeometry x="230" y="440" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
