@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T16:19:13.968Z" agent="5.0 (Windows)" etag="HUtI9JsMe2UdrsN7dP9G" version="13.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-05-17T16:20:05.320Z" agent="5.0 (Windows)" etag="3Cp-tu4UROTVzAVK9OuQ" version="13.0.6" type="github" pages="7">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -439,8 +439,8 @@
         <mxCell id="8ckd48aETe0KG_lK9PyE-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
           <mxGeometry y="168" width="1050" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8ckd48aETe0KG_lK9PyE-7" value="Data Tertanggung Tambahan" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
-          <mxGeometry x="20" y="187" width="170" height="30" as="geometry" />
+        <mxCell id="8ckd48aETe0KG_lK9PyE-7" value="&lt;b&gt;Data Tertanggung Tambahan&lt;/b&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
+          <mxGeometry x="20" y="187" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ckd48aETe0KG_lK9PyE-8" value="Next" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
           <mxGeometry x="849.5" y="730" width="190" height="30" as="geometry" />
@@ -529,14 +529,14 @@
         <mxCell id="8ckd48aETe0KG_lK9PyE-36" value="" style="shape=mxgraph.mockup.markup.scratchOut;shadow=0;dashed=0;html=1;strokeColor=#999999;strokeWidth=4;align=center;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-33">
           <mxGeometry x="9" y="50" width="141" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Jv1xNRYRDCRb8yFXLZX8-36" value="KTP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
-          <mxGeometry x="195" y="230" width="91" height="30" as="geometry" />
+        <mxCell id="Jv1xNRYRDCRb8yFXLZX8-36" value="Orang Tua" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
+          <mxGeometry x="195" y="230" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv1xNRYRDCRb8yFXLZX8-37" value="Hubungan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
           <mxGeometry x="9" y="228" width="170" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Jv1xNRYRDCRb8yFXLZX8-40" value="Hubungan dengan calon pemegang polis" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="8ckd48aETe0KG_lK9PyE-2">
-          <mxGeometry x="300" y="228" width="170" height="36" as="geometry" />
+          <mxGeometry x="380" y="228" width="550" height="36" as="geometry" />
         </mxCell>
         <mxCell id="8ckd48aETe0KG_lK9PyE-37" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="8ckd48aETe0KG_lK9PyE-1">
           <mxGeometry x="335" y="301" width="360" height="30" as="geometry" />
