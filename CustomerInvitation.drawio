@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T19:40:41.104Z" agent="5.0 (Windows)" etag="Wug9MGK-0HL56-FMF_kr" version="13.1.11" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2020-05-31T19:41:49.207Z" agent="5.0 (Windows)" etag="JOWcJzFh7j-3LxuB3GbC" version="13.1.11" type="github" pages="16">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1022,20 +1022,20 @@
         <mxCell id="LReNXroJUmZ0myPFlBCO-2" value="Tertanggung Tambahan 1:" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
           <mxGeometry x="108" y="230" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LReNXroJUmZ0myPFlBCO-3" value="Reza Utama, Sudah tervalidasi, 01 Mei 2020" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
-          <mxGeometry x="263" y="190" width="250" height="20" as="geometry" />
+        <mxCell id="LReNXroJUmZ0myPFlBCO-3" value="Reza Utama" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
+          <mxGeometry x="263" y="190" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LReNXroJUmZ0myPFlBCO-4" value="April, Sudah tervalidasi, 01 Mei 2020" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
-          <mxGeometry x="263" y="210" width="210" height="20" as="geometry" />
+        <mxCell id="LReNXroJUmZ0myPFlBCO-4" value="April" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
+          <mxGeometry x="263" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LReNXroJUmZ0myPFlBCO-5" value="Adi Rahadian, belum tervalidasi, &lt;font color=&quot;#6666FF&quot;&gt;Kirim pengingat&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
-          <mxGeometry x="263" y="230" width="270" height="20" as="geometry" />
+        <mxCell id="LReNXroJUmZ0myPFlBCO-5" value="Adi Rahadian&lt;font color=&quot;#6666FF&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
+          <mxGeometry x="263" y="230" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LReNXroJUmZ0myPFlBCO-6" value="Tertanggung Tambahan 1:" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
           <mxGeometry x="108" y="230" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LReNXroJUmZ0myPFlBCO-7" value="Tito, belum tervalidasi,&lt;font color=&quot;#3333FF&quot;&gt; Kirim pengingat&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
-          <mxGeometry x="263" y="250" width="220" height="20" as="geometry" />
+        <mxCell id="LReNXroJUmZ0myPFlBCO-7" value="Tito" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
+          <mxGeometry x="263" y="250" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LReNXroJUmZ0myPFlBCO-8" value="Tertanggung Tambahan 2:" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
           <mxGeometry x="108" y="250" width="150" height="20" as="geometry" />
@@ -1043,8 +1043,8 @@
         <mxCell id="LReNXroJUmZ0myPFlBCO-9" value="Tertanggung Tambahan 3:" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
           <mxGeometry x="108" y="270" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LReNXroJUmZ0myPFlBCO-10" value="Restu, belum tervalidasi, &lt;font color=&quot;#3333FF&quot;&gt;Kirim pengingat&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
-          <mxGeometry x="263" y="270" width="230" height="20" as="geometry" />
+        <mxCell id="LReNXroJUmZ0myPFlBCO-10" value="Restu" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
+          <mxGeometry x="263" y="270" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LReNXroJUmZ0myPFlBCO-11" value="Tanggal Submit :" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="4EnmdvnDq9Odtsrl1DTj-1">
           <mxGeometry x="158" y="170" width="100" height="20" as="geometry" />
