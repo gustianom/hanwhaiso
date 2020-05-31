@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T19:23:05.305Z" agent="5.0 (Windows)" etag="bxfOBVVvto3S_F09Q8MC" version="13.1.11" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2020-05-31T19:25:57.129Z" agent="5.0 (Windows)" etag="6Ot05BgJki6jPxJqf7pW" version="13.1.11" type="github" pages="15">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -920,7 +920,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PolicyRegisterStatus" id="qOo-dgi2FDMROY-HolZm">
-    <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="ujCPGgk1h3WQMtowoAh1-0" />
         <mxCell id="ujCPGgk1h3WQMtowoAh1-1" parent="ujCPGgk1h3WQMtowoAh1-0" />
@@ -969,8 +969,26 @@
         <mxCell id="rnWhVz6A2mzWxBh5rFOI-3" value="April, Sudah tervalidasi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
           <mxGeometry x="160" y="240" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rnWhVz6A2mzWxBh5rFOI-5" value="Adi Rahadian, belum tervalidasi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
-          <mxGeometry x="160" y="260" width="180" height="20" as="geometry" />
+        <mxCell id="rnWhVz6A2mzWxBh5rFOI-5" value="Adi Rahadian, belum tervalidasi, Kirim pengingat" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
+          <mxGeometry x="160" y="260" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ0N8qOlVDEVsnawro6J-0" value="Tertanggung Tambahan 1:" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
+          <mxGeometry x="5" y="260" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ0N8qOlVDEVsnawro6J-1" value="Tito, belum tervalidasi, Kirim pengingat" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
+          <mxGeometry x="160" y="280" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ0N8qOlVDEVsnawro6J-2" value="Tertanggung Tambahan 2:" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
+          <mxGeometry x="5" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ0N8qOlVDEVsnawro6J-4" value="Tertanggung Tambahan 3:" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
+          <mxGeometry x="5" y="300" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ0N8qOlVDEVsnawro6J-5" value="Restu, belum tervalidasi, Kirim pengingat" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
+          <mxGeometry x="160" y="300" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ0N8qOlVDEVsnawro6J-6" value="Klik &lt;b&gt;DISINI&lt;/b&gt; untuk melihat isian" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;" vertex="1" parent="ujCPGgk1h3WQMtowoAh1-2">
+          <mxGeometry x="15" y="355" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
