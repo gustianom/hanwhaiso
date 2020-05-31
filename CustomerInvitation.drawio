@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T18:41:48.532Z" agent="5.0 (Windows)" etag="iUFNL_zsFhSCXxfSkfSU" version="13.1.11" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-05-31T18:42:53.328Z" agent="5.0 (Windows)" etag="BcMqtbJBR2pUn5iS6XcP" version="13.1.11" type="github" pages="12">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -866,7 +866,7 @@
       <root>
         <mxCell id="jsGX4z3dApR0sqMB0KTl-0" />
         <mxCell id="jsGX4z3dApR0sqMB0KTl-1" parent="jsGX4z3dApR0sqMB0KTl-0" />
-        <mxCell id="jsGX4z3dApR0sqMB0KTl-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-1">
+        <mxCell id="jsGX4z3dApR0sqMB0KTl-2" value="N" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-1">
           <mxGeometry x="50" y="35" width="1050" height="780" as="geometry" />
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
@@ -884,7 +884,7 @@
         <mxCell id="jsGX4z3dApR0sqMB0KTl-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry y="168" width="1050" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jsGX4z3dApR0sqMB0KTl-7" value="Validate Digital Identity" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
+        <mxCell id="jsGX4z3dApR0sqMB0KTl-7" value="Validate Digital Identity Status" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="20" y="187" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jsGX4z3dApR0sqMB0KTl-8" value="Close" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
@@ -919,9 +919,6 @@
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-22" value="Tertanggung Tambahan 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="55" y="405" width="175" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Cjl7vMcM15-TbFYUzvHH-23" value="Click here for Digital Identity Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
-          <mxGeometry x="97.5" y="461.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="340" y="270" width="195" height="110" as="geometry" />
@@ -973,6 +970,9 @@
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-44" value="&lt;div&gt;Digital Identity Validated &lt;br&gt;&lt;/div&gt;&lt;div&gt;01 May 2020&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="430" y="306" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cjl7vMcM15-TbFYUzvHH-45" value="Not Yet Signed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
+          <mxGeometry x="97.5" y="461.5" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
