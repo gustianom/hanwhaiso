@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T18:36:15.102Z" agent="5.0 (Windows)" etag="gWHn2U27jMwyy55ZQEJM" version="13.1.11" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-05-31T18:39:48.947Z" agent="5.0 (Windows)" etag="-hV_3FelMbTWTggH8myB" version="13.1.11" type="github" pages="12">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -920,7 +920,7 @@
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-22" value="Tertanggung Tambahan 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="55" y="405" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cjl7vMcM15-TbFYUzvHH-23" value="Click here for Digital Identity Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
+        <mxCell id="Cjl7vMcM15-TbFYUzvHH-23" value="Click here for Digital Identity Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="97.5" y="461.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
@@ -947,7 +947,7 @@
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-33" value="Tertanggung Tambahan 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="340" y="405" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cjl7vMcM15-TbFYUzvHH-34" value="Click here for Digital Identity Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
+        <mxCell id="Cjl7vMcM15-TbFYUzvHH-34" value="Not Yet Signed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="382.5" y="461.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
@@ -971,7 +971,7 @@
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-41" value="Beneficial Owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="55" y="570" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cjl7vMcM15-TbFYUzvHH-42" value="Click here for Digital Identity Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
+        <mxCell id="Cjl7vMcM15-TbFYUzvHH-42" value="Not Yet Signed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="97.5" y="626.5" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
