@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T19:51:02.947Z" agent="5.0 (Windows)" etag="k7nCWifwMn-t6Wq4aN7l" version="13.1.11" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-05-31T19:55:46.334Z" agent="5.0 (Windows)" etag="V2wOqGBkP397FQjtOIjD" version="13.1.11" type="github" pages="17">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1143,6 +1143,12 @@
         </mxCell>
         <mxCell id="L5Exengto9JOaTdg1-CO-8" value="Upload" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#E6E6E6;align=center;strokeColor=#B3B3B3;fontColor=#333333;" vertex="1" parent="650EhmDqCHYt2LARM27K-12">
           <mxGeometry x="286" y="271" width="44" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="L5Exengto9JOaTdg1-CO-9" value="Nomor HP :" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="650EhmDqCHYt2LARM27K-12">
+          <mxGeometry x="60" y="297" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L5Exengto9JOaTdg1-CO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=left;" vertex="1" parent="650EhmDqCHYt2LARM27K-12">
+          <mxGeometry x="159" y="297" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
