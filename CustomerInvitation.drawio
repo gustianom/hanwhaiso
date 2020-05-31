@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T18:40:09.947Z" agent="5.0 (Windows)" etag="PCnn733gX5KO_YE4SYbp" version="13.1.11" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-05-31T18:41:11.126Z" agent="5.0 (Windows)" etag="e5TKz5G_Q80CgpWymXC8" version="13.1.11" type="github" pages="12">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -905,7 +905,7 @@
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-16" value="Pemegang Polis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="55" y="250" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cjl7vMcM15-TbFYUzvHH-18" value="&lt;div&gt;Digitaly Signed&lt;/div&gt;&lt;div&gt;01 May 2020&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
+        <mxCell id="Cjl7vMcM15-TbFYUzvHH-18" value="&lt;div&gt;Digital Identity Validated &lt;br&gt;&lt;/div&gt;&lt;div&gt;01 May 2020&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="140" y="306.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/view-1/20/qrcode-128.png" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
@@ -931,9 +931,6 @@
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-27" value="Tertanggung Utama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="350" y="250" width="175" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Cjl7vMcM15-TbFYUzvHH-28" value="&lt;div&gt;Digitaly Signed&lt;/div&gt;&lt;div&gt;01 May 2020&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
-          <mxGeometry x="435" y="306.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/view-1/20/qrcode-128.png" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="355" y="290" width="53" height="53" as="geometry" />
@@ -973,6 +970,9 @@
         </mxCell>
         <mxCell id="Cjl7vMcM15-TbFYUzvHH-42" value="Not Yet Signed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
           <mxGeometry x="97.5" y="626.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cjl7vMcM15-TbFYUzvHH-44" value="&lt;div&gt;Digital Identity Validated &lt;br&gt;&lt;/div&gt;&lt;div&gt;01 May 2020&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jsGX4z3dApR0sqMB0KTl-2">
+          <mxGeometry x="430" y="306" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
