@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T16:12:39.982Z" agent="5.0 (Windows)" etag="RxlswHcE0b01P83zeD7k" version="13.1.11" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-06-01T16:15:43.749Z" agent="5.0 (Windows)" etag="BxvGSR_NAy473d5vD4Af" version="13.1.11" type="github" pages="17">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="872" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -242,259 +242,132 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ESUBMISSION-UTAMA" id="GJ9OO-SFt4AZRh7FvlAA">
-    
-    <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
-      
+    <mxGraphModel dx="872" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-0" />
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-1" parent="W7401FnAKwCaJvP5A4dT-0" />
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" parent="W7401FnAKwCaJvP5A4dT-1" vertex="1">
-          
           <mxGeometry x="31" y="30" width="1050" height="780" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-3" value="SPAJ - Ibu Marinda - Hanwa Smart Invest" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-4" value="www.hanwhalife.co.id/customer/register/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-5" value="Surat Permintaan Asuransi Jiwa - SPAJ : 57038372983" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="30" y="122" width="890" height="50" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry y="168" width="1050" height="20" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-7" value="Data Tertanggung Utama" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="20" y="187" width="170" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-8" value="Next" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="849.5" y="730" width="190" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="9.5" y="700" width="1050" height="20" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-10" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="199" y="288" width="301" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-11" value="Nama Lengkap" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="9" y="285" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-12" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="640" y="325" width="110" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-13" value="Jenis Kelamin" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="9" y="325" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-14" value="Agama" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="9" y="399" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-15" value="Islam" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="199" y="402" width="101" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-16" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Layer 1,Layer 2,+Layer 3,Layer 4;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="29.5" y="720" width="770" height="50" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="1019" y="240" width="20" height="440" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-18" value="Laki" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="199" y="326" width="91" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-19" value="Tempat/Tanggal Lahir" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="459" y="326" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-20" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="759" y="325" width="110" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-21" value="Sesuai dengan kartu identitas" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="580" y="288" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-22" value="KTP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="195" y="251" width="91" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-23" value="Upload" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="679" y="251" width="121" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-24" value="Kewarganegaraan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="9" y="363" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-25" value="WNA" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="199" y="364" width="91" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-26" value="Negara Asal" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="459" y="361" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-27" value="Arab" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="650" y="364" width="220" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-28" value="Pendidikan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="457" y="402" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-29" value="SD" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="639" y="405" width="101" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-30" value="Sebutkan pekerjaan anda" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="199" y="479" width="301" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-31" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="199" y="515" width="541" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-32" value="Uraian Pekerjaan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="9" y="512" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="W7401FnAKwCaJvP5A4dT-33" value="" style="group" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1" connectable="0">
-          
-          <mxGeometry x="789" y="552" width="160" height="150" as="geometry" />
-          
-        </mxCell>
-        
-        <mxCell id="W7401FnAKwCaJvP5A4dT-34" value="Tanda Tangan Tetanggung Utama" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="W7401FnAKwCaJvP5A4dT-33" vertex="1">
-          
-          <mxGeometry width="159" height="30" as="geometry" />
-          
-        </mxCell>
-        
-        <mxCell id="W7401FnAKwCaJvP5A4dT-35" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="W7401FnAKwCaJvP5A4dT-33" vertex="1">
-          
-          <mxGeometry y="30" width="160" height="120" as="geometry" />
-          
-        </mxCell>
-        
-        <mxCell id="W7401FnAKwCaJvP5A4dT-36" value="" style="shape=mxgraph.mockup.markup.scratchOut;shadow=0;dashed=0;html=1;strokeColor=#999999;strokeWidth=4;align=center;" parent="W7401FnAKwCaJvP5A4dT-33" vertex="1">
-          
-          <mxGeometry x="9" y="50" width="141" height="90" as="geometry" />
-          
-        </mxCell>
-        
         <mxCell id="qc8DMoEfQchdvguUs3WY-0" value="Sama dengan Pemegang Polis" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" parent="W7401FnAKwCaJvP5A4dT-2" vertex="1">
-          
           <mxGeometry x="199" y="217" width="15" height="15" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-37" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="W7401FnAKwCaJvP5A4dT-1" vertex="1">
-          
           <mxGeometry x="335" y="282" width="360" height="30" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-38" value="Nomor Identitas" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-1" vertex="1">
-          
           <mxGeometry x="40" y="279" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-39" value="Pekerjaan" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="W7401FnAKwCaJvP5A4dT-1" vertex="1">
-          
           <mxGeometry x="40" y="468" width="170" height="36" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="W7401FnAKwCaJvP5A4dT-40" value="Lainnya" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="W7401FnAKwCaJvP5A4dT-1" vertex="1">
-          
           <mxGeometry x="230" y="469" width="260" height="30" as="geometry" />
-          
         </mxCell>
-        
+        <mxCell id="qg8QmDnSS1JDhCgUG2hd-0" value="Nomor HP" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="W7401FnAKwCaJvP5A4dT-1">
+          <mxGeometry x="49" y="581" width="170" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="qg8QmDnSS1JDhCgUG2hd-1" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="W7401FnAKwCaJvP5A4dT-1">
+          <mxGeometry x="230" y="580" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qg8QmDnSS1JDhCgUG2hd-2" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="W7401FnAKwCaJvP5A4dT-1">
+          <mxGeometry x="230" y="617" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qg8QmDnSS1JDhCgUG2hd-3" value="Email" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="W7401FnAKwCaJvP5A4dT-1">
+          <mxGeometry x="49" y="618" width="170" height="36" as="geometry" />
+        </mxCell>
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
   <diagram name="ESUBMISSION-TAMBAHAN" id="zBqlJg97HDYLB-MZsWjL">
     
