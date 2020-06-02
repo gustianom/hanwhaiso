@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-02T01:51:57.675Z" agent="5.0 (Windows)" etag="KlyIognkyxKA9_yQyOiq" version="13.1.11" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2020-06-02T01:52:22.981Z" agent="5.0 (Windows)" etag="8kbIC5je1GoKu8SQrmZZ" version="13.1.11" type="github" pages="18">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2342,14 +2342,14 @@
         <mxCell id="2FUx_yS8AycU_ltfC96k-3" value="www.hanwhalife.co.id/customer/register/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-4" value="Sent Invitation" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-4" value="SPAJ Invitation" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="30" y="122" width="890" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry y="168" width="1050" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
-          <mxGeometry x="900" y="220" width="20" height="180" as="geometry" />
+          <mxGeometry x="900" y="220" width="20" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-44" value="SPAJ #" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="70" y="220" width="120" height="30" as="geometry" />
