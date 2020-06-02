@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T16:34:59.662Z" agent="5.0 (Windows)" etag="iTUQ9vWRFPu63ssEKdat" version="13.1.11" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2020-06-02T01:31:10.225Z" agent="5.0 (Windows)" etag="yiSSXoXjZiTbnLU444CS" version="13.1.11" type="github" pages="18">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2538,37 +2538,37 @@
         <mxCell id="2FUx_yS8AycU_ltfC96k-112" value="2." style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="30" y="280" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-113" value="57038372988" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="70" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-114" value="20 Mei 2020" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="190" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-115" value="Apri Wibowo" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="310" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-116" value="apri@mail.com" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="430" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-117" value="081500000001" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="550" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-118" value="3." style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="30" y="310" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-119" value="57038372984" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="70" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-120" value="20 Mei 2020" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="190" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-121" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-121" value="Markum F" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="310" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-122" value="markum@mail.com" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="430" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-123" value="0819000000" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="550" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-124" value="4." style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
@@ -2595,16 +2595,16 @@
         <mxCell id="2FUx_yS8AycU_ltfC96k-138" value="Status" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-139" value="Not Validated" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-139" value="Not Fully Signed" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="250" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-140" value="Paid, Waiting for Registration" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-141" value="Data Not Complete" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-142" value="Waiting Agent Validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
