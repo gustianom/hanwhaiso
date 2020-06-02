@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-02T08:57:23.234Z" agent="5.0 (Windows)" etag="r0ZeGAzAY4KR_r04GoNV" version="13.1.11" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2020-06-02T09:17:20.015Z" agent="5.0 (Windows)" etag="U6MVIUCI6-jYY2DlooxS" version="13.1.11" type="github" pages="18">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1771,7 +1771,7 @@
         <mxCell id="2FUx_yS8AycU_ltfC96k-2" value="SPAJ - Ibu Marinda - Hanwa Smart Invest" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-3" value="www.hanwhalife.co.id/customer/register/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-3" value="www.hanwhalife.co.id/customer/customerlist/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-4" value="Customer Invitation" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
