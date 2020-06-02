@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-02T01:31:10.225Z" agent="5.0 (Windows)" etag="yiSSXoXjZiTbnLU444CS" version="13.1.11" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2020-06-02T01:32:54.963Z" agent="5.0 (Windows)" etag="AA8GDiH6u6obb0ncigzi" version="13.1.11" type="github" pages="18">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2598,13 +2598,13 @@
         <mxCell id="2FUx_yS8AycU_ltfC96k-139" value="Not Fully Signed" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-140" value="Paid, Waiting for Registration" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-140" value="Waiting for Policy Generation" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-141" value="Data Not Complete" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FUx_yS8AycU_ltfC96k-142" value="Waiting Agent Validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
+        <mxCell id="2FUx_yS8AycU_ltfC96k-142" value="Complete, waiting Agent Validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="670" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
