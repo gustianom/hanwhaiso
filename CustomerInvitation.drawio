@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T07:45:53.330Z" agent="5.0 (Windows)" etag="BDVjMy4VGG01Tz9Ct3KH" version="13.4.9" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2020-08-03T09:48:08.386Z" agent="5.0 (Windows)" etag="OfXJPl0L6YtPGowcB9Md" version="13.4.9" type="github" pages="19">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2872,7 +2872,7 @@
     
   </diagram>
   <diagram id="vPP1CgJm6G_5fRxBvpzO" name="ActivityDiagram">
-    <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-0" />
         <mxCell id="XvxAx2T3bW66jwH4VCGM-1" parent="XvxAx2T3bW66jwH4VCGM-0" />
@@ -2909,41 +2909,35 @@
         <mxCell id="XvxAx2T3bW66jwH4VCGM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1" source="XvxAx2T3bW66jwH4VCGM-12" target="XvxAx2T3bW66jwH4VCGM-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XvxAx2T3bW66jwH4VCGM-12" value="&lt;div&gt;Register Customer&lt;/div&gt;&lt;div&gt;Invitation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
-          <mxGeometry x="280" y="210" width="120" height="40" as="geometry" />
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-12" value="Agent Enter Customer Email, Name, Phone,&amp;nbsp; Purchased Product and Upload Illustration File " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="265" y="210" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1" source="XvxAx2T3bW66jwH4VCGM-13" target="XvxAx2T3bW66jwH4VCGM-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-13" value="Accept Invitation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
-          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1" source="XvxAx2T3bW66jwH4VCGM-15" target="XvxAx2T3bW66jwH4VCGM-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-15" value="Input Required Data" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
-          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1" source="XvxAx2T3bW66jwH4VCGM-19" target="XvxAx2T3bW66jwH4VCGM-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-19" value="Validate Customer Input" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
-          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XvxAx2T3bW66jwH4VCGM-25" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1" source="XvxAx2T3bW66jwH4VCGM-21" target="XvxAx2T3bW66jwH4VCGM-24">
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-25" value="x`" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1" source="XvxAx2T3bW66jwH4VCGM-21" target="XvxAx2T3bW66jwH4VCGM-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-21" value="Valid" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
-          <mxGeometry x="300" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="425" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-24" value="&lt;div&gt;Validate &lt;br&gt;&lt;/div&gt;&lt;div&gt;Customer&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
-          <mxGeometry x="490" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XvxAx2T3bW66jwH4VCGM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="330" as="sourcePoint" />
-            <mxPoint x="280" y="330" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="490" y="435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XvxAx2T3bW66jwH4VCGM-27" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#0050ef;strokeColor=#001DBC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1" source="XvxAx2T3bW66jwH4VCGM-21" target="XvxAx2T3bW66jwH4VCGM-15">
           <mxGeometry relative="1" as="geometry">
