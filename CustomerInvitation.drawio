@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T16:40:18.670Z" agent="5.0 (Windows)" etag="XJICbOQ-2dl5qFr4y51n" version="13.4.9" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2020-08-03T03:42:11.222Z" agent="5.0 (Windows)" etag="Ef62p4wCXxMIZ8doJNlt" version="13.4.9" type="github" pages="19">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -70,13 +70,13 @@
         <mxCell id="Y0qNDgR4GCL8hJpYXGAW-10" value="Hanwha Smart Invest" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="230" y="497" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sMM4cLV0a8IVbhnsv2en-1" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="sMM4cLV0a8IVbhnsv2en-1" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="230" y="543" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sMM4cLV0a8IVbhnsv2en-2" value="Upload Illustration" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="sMM4cLV0a8IVbhnsv2en-2" value="Upload Illustration" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="40" y="540" width="170" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="sMM4cLV0a8IVbhnsv2en-3" value="..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="sMM4cLV0a8IVbhnsv2en-3" value="..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="450" y="543" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -2870,5 +2870,46 @@
       
     </mxGraphModel>
     
+  </diagram>
+  <diagram id="vPP1CgJm6G_5fRxBvpzO" name="ActivityDiagram">
+    <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-0" />
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-1" parent="XvxAx2T3bW66jwH4VCGM-0" />
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-2" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="40" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-3" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="240" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-4" value="RH/BDM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="440" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-5" value="SO Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="640" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="40" y="130" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="240" y="130" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="440" y="130" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="640" y="130" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XvxAx2T3bW66jwH4VCGM-1" source="XvxAx2T3bW66jwH4VCGM-11" target="XvxAx2T3bW66jwH4VCGM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="325" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxAx2T3bW66jwH4VCGM-12" value="&lt;div&gt;Register Customer&lt;/div&gt;&lt;div&gt;Invitation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XvxAx2T3bW66jwH4VCGM-1">
+          <mxGeometry x="280" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
   </diagram>
 </mxfile>
