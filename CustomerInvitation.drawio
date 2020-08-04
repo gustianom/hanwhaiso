@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T09:32:43.313Z" agent="5.0 (Windows)" etag="5QD0qRij8Y9y2mp7RyF4" version="13.5.9" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2020-08-04T09:32:57.317Z" agent="5.0 (Windows)" etag="fEaybe6C97_GbWAZldet" version="13.5.9" type="github" pages="20">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1621,7 +1621,7 @@
           <mxGeometry y="168" width="1050" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
-          <mxGeometry x="1020" y="220" width="20" height="240" as="geometry" />
+          <mxGeometry x="990" y="220" width="20" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2FUx_yS8AycU_ltfC96k-44" value="SPAJ #" style="rounded=0;whiteSpace=wrap;html=1;" parent="2FUx_yS8AycU_ltfC96k-0" vertex="1">
           <mxGeometry x="70" y="220" width="120" height="30" as="geometry" />
