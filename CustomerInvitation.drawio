@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T10:05:00.488Z" agent="5.0 (Windows)" etag="86_56eznbrhW_s2V8LG0" version="13.5.9" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2020-08-04T10:06:13.020Z" agent="5.0 (Windows)" etag="fwFnUNhLJa5o-lieeg8M" version="13.5.9" type="github" pages="21">
   <diagram name="CUSTINVITE" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1848,7 +1848,7 @@
         <mxCell id="5YLkR5Eha-qb1Po5e51z-0" />
         <mxCell id="5YLkR5Eha-qb1Po5e51z-1" parent="5YLkR5Eha-qb1Po5e51z-0" />
         <mxCell id="5YLkR5Eha-qb1Po5e51z-2" value="&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="5YLkR5Eha-qb1Po5e51z-1">
-          <mxGeometry x="90" y="60" width="1050" height="780" as="geometry" />
+          <mxGeometry x="90" y="60" width="1050" height="380" as="geometry" />
         </mxCell>
         <mxCell id="5YLkR5Eha-qb1Po5e51z-3" value="RH/BDM/SO ADMIN Validation" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="5YLkR5Eha-qb1Po5e51z-2">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
